@@ -4,3 +4,4 @@ metadata:
   name: the-map
 data:
   mysqlDB: "mysql.example.com:3306"
+ 
