@@ -1,9 +1,0 @@
-namePrefix: dev-
-commonLabels:
-  variant: dev
-bases:
-- ../../base
-patchesStrategicMerge:
-- config-map.yaml
-- service.yaml
-namespace: dev
