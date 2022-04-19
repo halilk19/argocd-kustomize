@@ -1,8 +1,0 @@
-namePrefix: uat-
-commonLabels:
-  variant: uat
-bases:
-- ../../base
-patchesStrategicMerge:
-- service.yaml
-namespace: uat
